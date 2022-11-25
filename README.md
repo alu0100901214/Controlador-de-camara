@@ -3,7 +3,7 @@
 
 ->
 
-![gif](./GIF/camaraA.gif)
+![gif](./GIF/CamaraA.gif)
 
 ## Cámara (B) con seguimiento a un grupo de personajes que no sean el jugador. La zona donde no se activa el seguimiento debe ser mayor que la del personaje.
 
