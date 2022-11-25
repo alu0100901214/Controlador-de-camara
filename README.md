@@ -3,18 +3,25 @@
 
 ->
 
+![gif](./GIF/camaraA.gif)
 
 ## Cámara (B) con seguimiento a un grupo de personajes que no sean el jugador. La zona donde no se activa el seguimiento debe ser mayor que la del personaje.
 
 ->
 
+![gif](./GIF/camaraB.gif)
+
 ## Crear una zona de confinamiento para la cámara A que abarque toda la escena.
 
 ->
 
+![gif](./GIF/confinamientoA.gif)
+
 ## Se debe crear una zona de confinamiento de la cámara B que abarque una parte de la escena.
 
 ->
+
+![gif](./GIF/confinamientoB.gif)
 
 ## Añadir un objeto que genere una vibración en la cámara cuando A choca con él.
 
