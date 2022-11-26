@@ -43,3 +43,6 @@
 
 ## Extra: Generar una vibración en la cámara cada vez que se pulse la tecla de disparo. Agregar un perfil de ruido a la cámara, y modificar las propiedades de amplitud y frecuencia al component Noise
 
+-> Desde el script, cambiamos el Noise de la cámara A a un ruido (noise) que he creado cada vez que pulsamos la tecla E, si dejamos de pulsarla cambia a null.
+
+![gif](./GIF/noise.gif)
