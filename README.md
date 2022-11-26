@@ -37,5 +37,9 @@
 
 ## Seleccionar un conjunto de teclas que permitan hacer el cambio entre las cámaras A y C . (Habilitar/Deshabilitar el gameobject de la cámara virtual)
 
+-> Desde un script hacemos una referencia a las cámaras virtuales y con los botones F1, F2 y F3 cambiamos la prioridad de las cámaras para cambiar entre ellas.
+
+![gif](./GIF/switch.gif)
+
 ## Extra: Generar una vibración en la cámara cada vez que se pulse la tecla de disparo. Agregar un perfil de ruido a la cámara, y modificar las propiedades de amplitud y frecuencia al component Noise
 
